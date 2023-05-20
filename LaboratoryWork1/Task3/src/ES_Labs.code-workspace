@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Task1",
+			"path": "../../Task1"
+		},
+		{
+			"name": "Task2",
+			"path": "../../Task2"
+		},
+		{
+			"name": "Task3",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
